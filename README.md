@@ -326,7 +326,8 @@ Example Request:
 ```json
 {
   "receiverId": 2,
-  "amount": 500
+  "amount": 500,
+  "message":"Play Games"
 }
 ```
 
